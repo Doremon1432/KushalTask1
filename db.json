@@ -1,0 +1,144 @@
+{
+  "devices": [
+  {
+    "userId": "USR001",
+    "deviceId": "device001",
+    "status": "online",
+    "batteryLevel": 72,
+    "temperature": 39
+  },
+  {
+    "userId": "USR002",
+    "deviceId": "device002",
+    "status": "online",
+    "batteryLevel": 66,
+    "temperature": 20
+  },
+  {
+    "userId": "USR003",
+    "deviceId": "device003",
+    "status": "online",
+    "batteryLevel": 95,
+    "temperature": 23
+  },
+  {
+    "userId": "USR004",
+    "deviceId": "device004",
+    "status": "online",
+    "batteryLevel": 87,
+    "temperature": 39
+  },
+  {
+    "userId": "USR005",
+    "deviceId": "device005",
+    "status": "online",
+    "batteryLevel": 70,
+    "temperature": 35
+  },
+  {
+    "userId": "USR006",
+    "deviceId": "device006",
+    "status": "online",
+    "batteryLevel": 35,
+    "temperature": 24
+  },
+  {
+    "userId": "USR007",
+    "deviceId": "device007",
+    "status": "online",
+    "batteryLevel": 70,
+    "temperature": 36
+  },
+  {
+    "userId": "USR008",
+    "deviceId": "device008",
+    "status": "online",
+    "batteryLevel": 32,
+    "temperature": 33
+  },
+  {
+    "userId": "USR009",
+    "deviceId": "device009",
+    "status": "online",
+    "batteryLevel": 19,
+    "temperature": 34
+  },
+  {
+    "userId": "USR010",
+    "deviceId": "device010",
+    "status": "online",
+    "batteryLevel": 33,
+    "temperature": 43
+  },
+  {
+    "userId": "USR011",
+    "deviceId": "device011",
+    "status": "online",
+    "batteryLevel": 72,
+    "temperature": 23
+  },
+  {
+    "userId": "USR012",
+    "deviceId": "device012",
+    "status": "online",
+    "batteryLevel": 93,
+    "temperature": 42
+  },
+  {
+    "userId": "USR013",
+    "deviceId": "device013",
+    "status": "online",
+    "batteryLevel": 50,
+    "temperature": 27
+  },
+  {
+    "userId": "USR014",
+    "deviceId": "device014",
+    "status": "online",
+    "batteryLevel": 28,
+    "temperature": 21
+  },
+  {
+    "userId": "USR015",
+    "deviceId": "device015",
+    "status": "online",
+    "batteryLevel": 22,
+    "temperature": 32
+  },
+  {
+    "userId": "USR016",
+    "deviceId": "device016",
+    "status": "online",
+    "batteryLevel": 12,
+    "temperature": 21
+  },
+  {
+    "userId": "USR017",
+    "deviceId": "device017",
+    "status": "online",
+    "batteryLevel": 55,
+    "temperature": 42
+  },
+  {
+    "userId": "USR018",
+    "deviceId": "device018",
+    "status": "online",
+    "batteryLevel": 26,
+    "temperature": 44
+  },
+  {
+    "userId": "USR019",
+    "deviceId": "device019",
+    "status": "online",
+    "batteryLevel": 16,
+    "temperature": 41
+  },
+  {
+    "userId": "USR020",
+    "deviceId": "device020",
+    "status": "online",
+    "batteryLevel": 79,
+    "temperature": 24
+  }
+]
+}

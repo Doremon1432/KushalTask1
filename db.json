@@ -10,7 +10,7 @@
   {
     "userId": "USR002",
     "deviceId": "device002",
-    "status": "online",
+    "status": "offline",
     "batteryLevel": 66,
     "temperature": 20
   },
@@ -52,7 +52,7 @@
   {
     "userId": "USR008",
     "deviceId": "device008",
-    "status": "online",
+    "status": "offline",
     "batteryLevel": 32,
     "temperature": 33
   },
